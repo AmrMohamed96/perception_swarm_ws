@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target cvTest_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cvTest_node.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/amr/perception_ws/devel/.private/cvTest/lib/cvTest/cvTest_node[0m
+[100%] Built target cvTest_node

@@ -1,0 +1,8 @@
+prefix=/home/amr/perception_ws/devel/.private/cvTest
+
+Name: cvTest
+Description: Description of cvTest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amr/perception_ws/devel/.private/cvTest/lib 
+Requires: 

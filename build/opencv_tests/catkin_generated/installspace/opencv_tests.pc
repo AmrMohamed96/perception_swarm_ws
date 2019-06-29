@@ -1,0 +1,8 @@
+prefix=/home/amr/perception_ws/install
+
+Name: opencv_tests
+Description: Description of opencv_tests
+Version: 1.12.4
+Cflags: 
+Libs: -L/home/amr/perception_ws/install/lib 
+Requires: 

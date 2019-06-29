@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amr/perception_ws/devel/.private/cv_bridge/setup.sh
