@@ -17,10 +17,7 @@ find_package(catkin REQUIRED COMPONENTS
 )
 
 find_package(Eigen3 REQUIRED)
-find_package(OpenCV REQUIRED
-NO_MODULE # should be optional, tells CMake to use config mode
-PATHS /usr/local # look here
-NO_DEFAULT_PATH) # and don't look anywhere else
+find_package(OpenCV REQUIRED)
 
 find_package(PkgConfig)
 pkg_search_module(apriltag REQUIRED apriltag)

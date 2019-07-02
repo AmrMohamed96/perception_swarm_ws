@@ -1,0 +1,8 @@
+prefix=/home/amr/perception_swarm_ws/devel/.private/depth_image_proc
+
+Name: depth_image_proc
+Description: Description of depth_image_proc
+Version: 1.13.0
+Cflags: -I/home/amr/perception_swarm_ws/src/image_pipeline/depth_image_proc/include
+Libs: -L/home/amr/perception_swarm_ws/devel/.private/depth_image_proc/lib -ldepth_image_proc
+Requires: 

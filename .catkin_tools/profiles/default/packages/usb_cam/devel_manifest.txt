@@ -1,0 +1,7 @@
+usb_cam
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/cmake.lock /home/amr/perception_swarm_ws/devel/./cmake.lock
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/lib/libusb_cam.so /home/amr/perception_swarm_ws/devel/lib/libusb_cam.so
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/lib/pkgconfig/usb_cam.pc /home/amr/perception_swarm_ws/devel/lib/pkgconfig/usb_cam.pc
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/lib/usb_cam/usb_cam_node /home/amr/perception_swarm_ws/devel/lib/usb_cam/usb_cam_node
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/share/usb_cam/cmake/usb_camConfig-version.cmake /home/amr/perception_swarm_ws/devel/share/usb_cam/cmake/usb_camConfig-version.cmake
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/share/usb_cam/cmake/usb_camConfig.cmake /home/amr/perception_swarm_ws/devel/share/usb_cam/cmake/usb_camConfig.cmake

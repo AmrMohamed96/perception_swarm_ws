@@ -1,0 +1,1 @@
+/home/amr/perception_swarm_ws/devel/.private/apriltag_ros/share/roseus/ros/apriltag_ros/srv/AnalyzeSingleImage.l

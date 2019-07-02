@@ -1,0 +1,6 @@
+devel_space: /home/amr/perception_swarm_ws/devel
+install: false
+install_space: /home/amr/perception_swarm_ws/install
+profile: default
+source_space: /home/amr/perception_swarm_ws/src
+workspace: /home/amr/perception_swarm_ws

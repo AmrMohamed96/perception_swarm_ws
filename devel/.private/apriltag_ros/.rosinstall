@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amr/perception_swarm_ws/devel/.private/apriltag_ros/setup.sh

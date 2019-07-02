@@ -1,0 +1,8 @@
+prefix=/home/amr/perception_swarm_ws/devel/.private/image_rotate
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.13.0
+Cflags: -I/home/amr/perception_swarm_ws/devel/.private/image_rotate/include
+Libs: -L/home/amr/perception_swarm_ws/devel/.private/image_rotate/lib 
+Requires: 

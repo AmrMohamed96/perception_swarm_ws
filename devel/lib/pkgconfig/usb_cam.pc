@@ -1,0 +1,1 @@
+/home/amr/perception_swarm_ws/devel/.private/usb_cam/lib/pkgconfig/usb_cam.pc
