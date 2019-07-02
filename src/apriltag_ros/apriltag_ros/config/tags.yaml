@@ -19,13 +19,13 @@
 #   ]
 standalone_tags:
   [
-  {id: 0, size: 0.13, frame_id: refrence},
-  {id: 1, size: 0.13, frame_id: robot1},
-  {id: 2, size: 0.13, frame_id: robot2},
-  {id: 3, size: 0.13, frame_id: robot3},
-  {id: 4, size: 0.13, frame_id: robot4},
-  {id: 5, size: 0.13, frame_id: obst1},
-  {id: 6, size: 0.13, frame_id: obst2}
+  {id: 0, size: 0.136, frame_id: refrence},
+  {id: 1, size: 0.136, frame_id: robot1},
+  {id: 2, size: 0.136, frame_id: robot2},
+  {id: 3, size: 0.136, frame_id: robot3},
+  {id: 4, size: 0.136, frame_id: robot4},
+  {id: 5, size: 0.136, frame_id: obst1},
+  {id: 6, size: 0.136, frame_id: obst2}
   ]
 # ## Tag bundle definitions
 # ### Remarks

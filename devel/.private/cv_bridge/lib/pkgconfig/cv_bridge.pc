@@ -1,8 +1,0 @@
-prefix=/home/amr/perception_ws/devel/.private/cv_bridge
-
-Name: cv_bridge
-Description: Description of cv_bridge
-Version: 1.12.4
-Cflags: -I/home/amr/perception_ws/src/vision_opencv/cv_bridge/include -I/usr/local/include/opencv -I/usr/local/include
-Libs: -L/home/amr/perception_ws/devel/.private/cv_bridge/lib -lcv_bridge /usr/local/lib/libopencv_core.so.3.1.0 /usr/local/lib/libopencv_imgproc.so.3.1.0 /usr/local/lib/libopencv_imgcodecs.so.3.1.0
-Requires: rosconsole sensor_msgs

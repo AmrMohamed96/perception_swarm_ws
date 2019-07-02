@@ -1,8 +1,0 @@
-prefix=/home/amr/perception_ws/install
-
-Name: cvTest
-Description: Description of cvTest
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/amr/perception_ws/install/lib 
-Requires: 
